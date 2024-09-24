@@ -14,7 +14,7 @@ import { LandingPageModule } from './landing-page/landing-page.module';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    LandingPageModule
+    LandingPageModule,
   ],
 
   providers: [
