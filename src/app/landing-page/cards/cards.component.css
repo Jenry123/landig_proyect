@@ -1,12 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+
 #card-img{
-  width: 200px;
-  height: 120px;
+  width: 240px;
+  height: 140px;
   position: relative;
-  left: 40px;
+  left: 30px;
+  top: 30px;
+  border-radius: 10px;
 }
 #cards{
   width: 300px;
   height: 400px;
   border-color:black;
-  background-color: gray;
+  background-color: rgb(53, 93, 37);
+  border-radius: 20px;
+
+}
+#img-play{
+  width: 300px;
+  position: relative;
+  top: -100px;
+}
+
+#tittle-music{
+text-align: center;
+position: relative;
+left: -1px;
+font-size: 30px;
+position: relative;
+top: 20px;
+font-family: "Oswald", sans-serif;
+font-optical-sizing: auto;
+font-weight: 12;
+font-style: normal;
+color: white;
 }
