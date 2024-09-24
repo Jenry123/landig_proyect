@@ -95,7 +95,7 @@
             "tsConfig": "tsconfig.spec.json",
             "assets": [
               {
-                "glob": "**/*",
+                "glob": "src/app/landing-page/imagenes",
                 "input": "public"
               }
             ],
@@ -107,5 +107,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "7863959b-c888-4a6e-8df7-5b8e1b5d2805"
   }
 }
