@@ -26,10 +26,10 @@ font-style: normal;
   border-radius: 20px;
 }
 
-#card1{
-  position: relative;
-  top: -1000px;
-  left: 100px;
+#card3{
+  position: absolute;
+  top: 700px;
+  left: 800px;
 }
 
 #card2{
@@ -40,6 +40,12 @@ font-style: normal;
 
 #card1{
   position: absolute;
-  top: 100px;
-  left: 650px;
+  top: 700px;
+  left: 100px;
+}
+
+#card4{
+  position: absolute;
+  top: 700px;
+  left: 1150px;
 }
