@@ -3,11 +3,13 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { InformationArtistComponent } from './landing-page/information-artist/information-artist.component';
 import { MenuAppComponent } from './landing-page/menu-app/menu-app.component';
+import { CardsComponent } from './landing-page/cards/cards.component';
 
 const routes: Routes = [
   {path:'artist',component:InformationArtistComponent},
   {path:'home',component:MenuAppComponent},
-  {path:'music',component:TopMusicComponent}
+  {path:'music',component:TopMusicComponent},
+  {path:'cards',component:CardsComponent}
 ];
 
 @NgModule({
