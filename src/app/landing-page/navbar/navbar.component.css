@@ -12,40 +12,17 @@ font-weight: 12;
 font-style: normal;
 }
 
-*{
-  max-width: 100%;
 
+#menu-burguer{
+  position: relative;
+  width: 50px;
+  left: 20px;
+  top: -175px;
 }
 
-#imgPromocional{
-  width: 1000px;
-  position: absolute;
-  height: 300px;
-  background-color: gray;
-  left: 240px;
-  border-radius: 20px;
-}
-
-#card3{
-  position: absolute;
-  top: 1000px;
-  left: 800px;
-}
-
-#card2{
-  position: absolute;
-  top:1000px;
-  left: 450px;
-}
-
-#card1{
-  position: absolute;
-  top: 1000px;
-  left: 100px;
-}
-
-#card4{
-  position: absolute;
-  top: 1000px;
-  left: 1150px;
+#buscador{
+  position: relative;
+  width: 50px;
+  left: 1300px;
+  top: -175px;
 }

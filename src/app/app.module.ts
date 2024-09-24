@@ -7,9 +7,12 @@ import { MenuAppComponent } from './landing-page/menu-app/menu-app.component';
 import { LandingPageModule } from './landing-page/landing-page.module';
 
 
+
+
 @NgModule({
   declarations: [
     AppComponent,
+
   ],
   imports: [
     BrowserModule,
