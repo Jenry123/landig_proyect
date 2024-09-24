@@ -179,7 +179,6 @@ font-style: normal;
 }
 
 
-
 footer{
   background-color: black;
   height: 300px;
@@ -188,4 +187,19 @@ footer{
   top:500px;
   margin: 0%;
   padding: 0%;
+}
+#facebook{
+width:50px;
+height: 50px;
+position: relative;
+top: 190px;
+left: 300px;
+}
+
+#instagram{
+  width:50px;
+height: 50px;
+position: relative;
+top: 190px;
+left: 320px;
 }
