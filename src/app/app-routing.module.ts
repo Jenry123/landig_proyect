@@ -8,7 +8,7 @@ import { NavbarComponent } from './landing-page/navbar/navbar.component';
 
 const routes: Routes = [
   {path:'artist',component:InformationArtistComponent},
-  {path:'home',component:MenuAppComponent},
+  {path:'',component:MenuAppComponent},
   {path:'music',component:TopMusicComponent},
   {path:'cards',component:CardsComponent},
   {path:'navbar',component:NavbarComponent}
